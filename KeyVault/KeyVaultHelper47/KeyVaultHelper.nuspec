@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>KeyVaultHelper47</id>
+    <version>1.0.1</version>
+    <title>Componente para integração com Azure Key Vault</title>
+    <authors>Daniel Cardoso</authors>
+    <owners>Daniel Cardoso</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Componente para integração com Azure Key Vault</description>
+    <releaseNotes>First Version</releaseNotes>
+    <copyright>Daniel Cardoso</copyright>
+    <tags>C# Azure Key Vault</tags>
+  </metadata>
+</package>
